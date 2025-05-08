@@ -187,4 +187,7 @@ pbiviz start
 ![Alt Text](https://raw.githubusercontent.com/munggonegg/pbiviz-setup/refs/heads/main/assets/image2.png)
 2. Navigate to powerbi.com
 3. Create a new report and open the Developer Visual:
+![Alt Text](https://raw.githubusercontent.com/munggonegg/pbiviz-setup/refs/heads/main/assets/image2.png)
 4. Add data:
+5. When you add a new Developer Visual and Data to your report, it looks like this:
+
