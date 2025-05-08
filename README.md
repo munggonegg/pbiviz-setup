@@ -184,3 +184,7 @@ pbiviz start
 ```
 
 1. Navigate to `https://localhost:8080/assets` : click Advance → Proceed to localhost (unsafe)
+![Alt Text](https://raw.githubusercontent.com/munggonegg/pbiviz-setup/refs/heads/main/assets/image2.png)
+2. Navigate to powerbi.com
+3. Create a new report and open the Developer Visual:
+4. Add data:
