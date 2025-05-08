@@ -184,10 +184,17 @@ pbiviz start
 ```
 
 1. Navigate to `https://localhost:8080/assets` : click Advance → Proceed to localhost (unsafe)
-![Alt Text](https://raw.githubusercontent.com/munggonegg/pbiviz-setup/refs/heads/main/assets/image2.png)
-2. Navigate to powerbi.com
-3. Create a new report and open the Developer Visual:
-![Alt Text](https://raw.githubusercontent.com/munggonegg/pbiviz-setup/refs/heads/main/assets/image2.png)
-4. Add data:
-5. When you add a new Developer Visual and Data to your report, it looks like this:
+<img src="https://raw.githubusercontent.com/munggonegg/pbiviz-setup/refs/heads/main/assets/image2.png" alt="Step 1" width="600"/>
 
+2. Navigate to powerbi.com
+
+3. Create a new report and open the Developer Visual:  
+<img src="https://raw.githubusercontent.com/munggonegg/pbiviz-setup/refs/heads/main/assets/image3.png" alt="Step 3" width="250"/>
+
+
+4. Add data:  
+<img src="https://raw.githubusercontent.com/munggonegg/pbiviz-setup/refs/heads/main/assets/image4.png" alt="Step 4" width="250"/>
+
+
+5. When you add a new Developer Visual and Data to your report, it looks like this:  
+<img src="https://raw.githubusercontent.com/munggonegg/pbiviz-setup/refs/heads/main/assets/image5.png" alt="Step 5" width="250"/>
