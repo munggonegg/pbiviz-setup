@@ -1,4 +1,4 @@
-# Power BI Custom Visuals - Starter Setup 🚀
+# **Power BI Custom Visuals - Starter Setup** 🚀
 
 > Everything you need to start building powerful and interactive Power BI custom visuals using the `pbiviz` CLI.
 
@@ -18,3 +18,15 @@ To install Node.js:
 4. Restart your computer.
 
 ---
+
+# Install PBIVIZ
+To install the latest version of pbiviz, open Windows PowerShell and enter the following command.
+```powershell
+npm i -g powerbi-visuals-tools@latest
+```
+---
+
+# Enable developer mode in the web service
+
+1. Go to [Power BI developer settings](https://app.powerbi.com/user/user-settings/developer-settings?experience=power-bi).
+2. Enable the **Power BI Developer mode** switch.
