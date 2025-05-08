@@ -198,3 +198,25 @@ pbiviz start
 
 5. When you add a new Developer Visual and Data to your report, it looks like this:  
 <img src="https://raw.githubusercontent.com/munggonegg/pbiviz-setup/refs/heads/main/assets/image5.png" alt="Step 5" width="250"/>
+
+## 📋 Summary
+
+This guide walks you through the complete process of setting up and building custom Power BI visuals using the pbiviz CLI and React:
+
+1. Install Node.js – Required runtime environment for building visuals.
+
+2. Install pbiviz – CLI tool for creating and managing Power BI visuals.
+
+3. Enable Developer Mode – Allows testing custom visuals in Power BI service.
+
+4. Create a Visual Project – Scaffold a new visual with the CLI.
+
+5. Set Up React – Integrate React for building component-based UIs.
+
+6. Create & Use a Component – Build and render a simple React component.
+
+7. Configure TypeScript – Update tsconfig.json for JSX and React types.
+
+8. Test the Visual – Run the visual locally and load it into Power BI.
+
+By the end, you'll have a working custom Power BI visual powered by React, ready for further development and styling.
